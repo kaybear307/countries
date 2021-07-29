@@ -7,8 +7,10 @@ li {
     display: flex;
     flex-direction: column;
     padding-bottom: 15px;
+
 }
 img {
     width: 80px;
     height: 50px;
+    border: black solid;
 }
