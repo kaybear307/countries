@@ -60,9 +60,11 @@ fetch(COUNTRY_URL + "all")
 // Search
 const input = document.createElement('input')
 input.setAttribute(id = "input", "Search Input")
+input.className = "input"
 main.append(input)
 
 const button = document.createElement('button')
+button.className = "button"
 button.setAttribute(id ="button", "Search!")
 button.innerText = "Search!"
 main.append(button)

@@ -22,3 +22,15 @@ img {
 .card {
 
 }
+
+h1 {
+    text-align: center;
+}
+
+input {
+    margin-left: 38%;
+}
+
+body {
+    background-color: lightcyan;
+}
